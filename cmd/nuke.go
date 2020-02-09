@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rebuy-de/aws-nuke/pkg/awsutil"
-	"github.com/rebuy-de/aws-nuke/pkg/config"
-	"github.com/rebuy-de/aws-nuke/pkg/types"
-	"github.com/rebuy-de/aws-nuke/resources"
+	"github.com/chemapolo/aws-nuke/pkg/awsutil"
+	"github.com/chemapolo/aws-nuke/pkg/config"
+	"github.com/chemapolo/aws-nuke/pkg/types"
+	"github.com/chemapolo/aws-nuke/resources"
 	"github.com/sirupsen/logrus"
 )
 

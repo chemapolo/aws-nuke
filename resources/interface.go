@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/rebuy-de/aws-nuke/pkg/config"
-	"github.com/rebuy-de/aws-nuke/pkg/types"
+	"github.com/chemapolo/aws-nuke/pkg/config"
+	"github.com/chemapolo/aws-nuke/pkg/types"
 )
 
 type ResourceListers map[string]ResourceLister

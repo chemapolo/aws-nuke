@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/rebuy-de/aws-nuke/resources"
+	"github.com/chemapolo/aws-nuke/resources"
 )
 
 type ItemState int
